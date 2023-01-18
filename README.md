@@ -1,2 +1,3 @@
-# closedcoin.github.io
-<img src=“https://github.com/ClosedCoin/website/blob/7f20f80d11b9c79b579687a0aef27dbcf9265303/logo.png”>
+F#cked my brain with this tutorials so it will be here.
+;) 
+<img src=logo.png height=256 width=256>
